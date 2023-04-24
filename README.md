@@ -18,5 +18,9 @@ Add a shortcut key in your [sway](https://swaywm.org/) config:
 bindsym Mod4+e exec path/to/wofi-emoji
 ```
 
+## Credits: 
+Original author: [dln](https://github.com/dln)
+Current maintainer: [Zeioth](https://github.com/Zeioth)
+
 ## 🌟 Support the project
 Star this repository and vote the [AUR package](https://aur.archlinux.org/packages/wofi-emoji) to increase the visibility of the project.
