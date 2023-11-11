@@ -6,7 +6,7 @@ It relies on [wtype](https://github.com/atx/wtype) when it's supported, otherwis
 
 **The difference from the original is that some emojis use the discord names.**
 
-![Screenshot of wofi-emoji in action]-(https://i.imgur.com/ydMrPx5.png)
+![Screenshot of wofi-emoji in action](https://i.imgur.com/ydMrPx5.png)
 
 ## Credits
 
