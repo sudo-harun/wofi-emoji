@@ -1,10 +1,10 @@
-# wofi-emoji modified by sudo-harun
+# wofi-emoji (modified by sudo-harun)
 
 Simple emoji selector for Wayland using [wofi](https://cloudninja.pw/docs/wofi.html).
 It relies on [wtype](https://github.com/atx/wtype) when it's supported, otherwise,
 [wl-clipboard](https://github.com/bugaevc/wl-clipboard) is used instead.
 
-###The difference from the original is that some emojis use the discord names.
+**The difference from the original is that some emojis use the discord names.**
 
 ![Screenshot of wofi-emoji in action](https://i.imgur.com/8XiUoh6.png)
 
